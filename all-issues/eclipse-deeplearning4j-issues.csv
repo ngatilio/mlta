@@ -1,0 +1,31 @@
+id,Title,Tag,State,Open Date,Close Date
+9620,"b'Fix up CI (windows gpg, actions param labels,..)'",[],closed,2022-01-26T22:32:38Z,2022-01-27T07:47:56Z
+9619,b'Ag test ci updates',[],closed,2022-01-26T22:28:29Z,2022-01-26T22:28:48Z
+9618,b'Fix oss.sonatype.org url',[],closed,2022-01-26T09:00:09Z,2022-01-26T09:03:23Z
+9617,b'Fix namespace issue for release',[],closed,2022-01-26T08:10:47Z,2022-01-26T08:14:07Z
+9616,b'Update DiffFunction getNumber methods to be more flexible',[],closed,2022-01-25T10:14:50Z,2022-01-25T10:19:30Z
+9615,b'Test refactoring for surefire',[],closed,2022-01-25T06:50:56Z,2022-01-25T08:51:38Z
+9614,b'Removes unused word2vec datafetcher',[],closed,2022-01-24T13:11:48Z,2022-01-24T13:27:46Z
+9613,b'adds inline to fix the ODR violation',[],closed,2022-01-24T13:02:01Z,2022-01-24T13:03:40Z
+9612,b'Mnist refactoring',[],closed,2022-01-24T10:44:57Z,2022-01-24T11:11:03Z
+9611,b'Fixes up fill triang and adds python-numpy to platform tests',[],closed,2022-01-24T06:56:41Z,2022-01-24T10:03:08Z
+9610,b'improves the concat operation cases happening in yolo',[],closed,2022-01-24T02:00:42Z,2022-01-24T05:11:26Z
+9609,b'Tests refactoring/minor fixes',[],closed,2022-01-21T07:25:58Z,2022-01-21T07:47:51Z
+9608,"b'Fixes for model import, test refactoring'",[],closed,2022-01-19T14:11:01Z,2022-01-20T11:07:19Z
+9607,b'TrainingPerformanceEarlyStoppingListener reports wrong statistics combined with EarlyStoppingTrainer.evaluateEveryNEpochs(x) ',[],open,2022-01-17T23:34:42Z,
+9606,b'Vednn kernels',[],closed,2022-01-17T01:12:59Z,2022-01-17T07:55:52Z
+9605,b'Update sonatype URL to allow publishing to snapshots/release',[],closed,2022-01-14T11:46:48Z,2022-01-16T09:18:27Z
+9604,b'Should this path be filePath to extract the extension for checking?',[],closed,2022-01-12T09:33:56Z,2022-01-14T03:52:58Z
+9603,b'WIP: Add new unified resource management',[],closed,2022-01-12T08:05:08Z,2022-01-14T09:03:06Z
+9602,b'Test consolidation 2',[],closed,2022-01-11T07:20:04Z,2022-01-11T09:36:08Z
+9601,b'documentation on how to install vednn. vednn maxpool forward ',[],closed,2022-01-10T15:27:40Z,2022-01-11T12:26:33Z
+9600,b'Fix transformers models: fix reduce shape computation for keepDims',[],closed,2022-01-10T10:47:33Z,2022-01-10T11:32:48Z
+9599,b'Model import changes based on model zoo tests',[],closed,2022-01-10T09:10:50Z,2022-01-10T09:27:03Z
+9598,b'Minor codegen updates',[],closed,2022-01-10T09:08:03Z,2022-01-10T09:27:18Z
+9597,b'Add model hub as standalone',[],closed,2022-01-10T08:54:22Z,2022-01-10T09:27:30Z
+9596,b'Implement Einsum op',['Enhancement'],open,2022-01-09T23:33:43Z,
+9595,b'Python4J Performance Optimizations',[],open,2022-01-08T19:58:12Z,
+9594,b'rl4j - frequent syntax errors',[],closed,2022-01-08T14:34:32Z,2022-01-08T14:50:33Z
+9593,b'nOut for Bidirectional Concatenated',[],open,2022-01-06T19:15:51Z,
+9592,b'Examples for standard linear algebra operations such and decompositions and solvers',[],open,2022-01-06T17:14:11Z,
+9591,b'vednn & removal of the old ve onednn',[],closed,2022-01-04T15:08:18Z,2022-01-05T08:56:15Z

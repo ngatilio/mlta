@@ -1,0 +1,31 @@
+id,Title,Tag,State,Open Date,Close Date
+385,b'Examples update',[],open,2022-01-05T17:17:47Z,
+384,b'<rl.agents.dqn.DQNAgent object at 0x000001FE98873A88>',[],open,2021-12-22T09:38:08Z,
+383,b'which version the tensorflow and numpy it is inDQN_carpole?',[],open,2021-12-20T01:54:31Z,
+382,b'how to implement a custom environment? ',[],open,2021-09-27T12:00:57Z,
+381,"b""ImportError: cannot import name 'PrioritizedMemory' from 'rl.memory'""",[],open,2021-09-21T14:42:28Z,
+380,b'Issue importing keras-rl on tensorflow-macos',[],open,2021-09-10T15:49:07Z,
+379,b'Training performance is quite slow',[],open,2021-07-18T18:28:48Z,
+378,"b'Undocumented version requirements for python, tensorflow, and keras'",[],open,2021-07-01T17:01:32Z,
+377,"b""Module 'keras.utils.generic_utils' has no attribute 'populate_dict_with_module_objects'""",[],closed,2021-06-18T17:37:00Z,2021-06-18T17:51:14Z
+376,b'ValueError: probabilities contain NaN in policy.py',[],open,2021-06-07T09:34:36Z,
+375,b'[Question] Custom Environment ',[],open,2021-05-10T11:09:47Z,
+374,"b'C:\\Python\\Python37\\lib\\site-packages\\keras_rl-0.4.2-py3.7.egg\\rl\\agents\\dqn.py in __init__(self, model, policy, test_policy, enable_double_dqn, enable_dueling_network, dueling_type, *args, **kwargs)'",['wontfix'],closed,2021-02-11T12:04:56Z,2021-06-26T02:48:57Z
+373,b'Numpy data wrangling in rl/callbacks.py',['wontfix'],closed,2021-02-04T07:13:25Z,2021-06-11T01:57:48Z
+372,b'DDPG worked well but not CDQN or NAF !',[],closed,2020-12-30T15:10:27Z,2021-01-02T10:44:17Z
+371,"b'Please help me, I have a problem with DQNAgent.'",['wontfix'],closed,2020-12-24T09:18:20Z,2021-07-11T21:07:52Z
+370,b'Spelling Error update',[],open,2020-11-20T07:32:12Z,
+369,"b""I am trying to visualize the results of an example I ran (sarsa.cartpole). The example ran fine and I got the results of the training, however, I can't visualize the results. Following the instructions given (from rl.callbacks import WandbLogger) raises an error [cannot import name 'WandbLogger']. The package (wandb) is installed and all the dependecies are installed. If this does not work, how else can I visualize the results and store the generated data (episode, reward, action,...etc)? """,['wontfix'],closed,2020-11-17T04:19:22Z,2021-06-11T01:57:45Z
+368,b'Added external project to Readme',[],open,2020-11-12T13:03:29Z,
+367,b'Dimension does not match for tuple space',['wontfix'],closed,2020-10-22T01:26:31Z,2021-06-02T17:35:23Z
+366,"b""Examples don't work anymore""",['wontfix'],closed,2020-09-17T17:34:25Z,2021-06-11T01:57:46Z
+365,"b'Stores reward_mean, reward_std in the FileLogger'",[],open,2020-09-14T14:02:34Z,
+364,"b'raise ValueError \'Critic ""{}"" does not have enough inputs when run ddpg_pendulum.py '",['wontfix'],closed,2020-07-23T09:18:28Z,2021-06-11T01:57:44Z
+363,b'DQL',['wontfix'],closed,2020-06-27T08:24:01Z,2020-10-11T07:15:25Z
+362,b'Cannot import CallbackList',['wontfix'],closed,2020-06-26T07:44:39Z,2020-12-13T01:27:18Z
+361,b'Replace image_dim_ordering in Atari DQN example',[],open,2020-05-05T18:35:48Z,
+360,b'Fix minor spelling errors in the core file.',[],open,2020-05-05T18:08:22Z,
+359,"b'AssertionError: assert q_values.shape == (self.nb_actions,)'",['wontfix'],closed,2020-04-26T01:52:54Z,2020-08-01T08:12:03Z
+358,b'Fix for Issue #348: len is not well defined for symbolic Tensors ',[],open,2020-04-24T22:20:25Z,
+357,b'Update readme with recommended tf version.',[],closed,2020-04-02T16:51:49Z,2020-05-05T20:44:50Z
+356,b'Keras RL for another externel Enviroment',[],closed,2020-03-18T07:09:18Z,2020-03-30T15:25:17Z

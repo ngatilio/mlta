@@ -1,0 +1,31 @@
+id,Title,Tag,State,Open Date,Close Date
+1217,b'TF Serving loading error of self trained model (TFv2.x)',[],open,2022-01-19T20:13:00Z,
+1216,b'Facenet saved entire model for Tensorflow 2.0 or above',[],open,2022-01-04T15:20:04Z,
+1215,b'What codes can be modified to add their own data sets and train',[],open,2022-01-04T07:03:41Z,
+1214,b'i got Different accuracy !!',[],open,2021-12-21T21:01:13Z,
+1213,b'Broken link',[],open,2021-12-17T12:56:49Z,
+1212,"b'ValueError: Found array with 0 sample(s) (shape=(0, 512)) while a minimum of 1 is required.`'",[],open,2021-09-04T11:10:47Z,
+1211,b'ValueError: The number of classes has to be greater than one; got 1',[],open,2021-09-03T17:31:56Z,
+1210,b'Bump tensorflow from 1.7 to 2.5.1',['dependencies'],open,2021-08-25T14:54:44Z,
+1209,b'Performance issue in /contributed/export_embeddings.py (by P3)',[],open,2021-08-25T08:51:27Z,
+1208,b'Performance issues in the program',[],open,2021-08-19T02:31:54Z,
+1207,b' Performance issues in the program',[],closed,2021-08-19T02:10:15Z,2021-08-19T08:36:32Z
+1206,b'Training over a pretrained model',[],open,2021-08-16T05:09:13Z,
+1205,b'How can I extract the face features through the codes',[],open,2021-07-27T09:32:57Z,
+1204,"b'when I run train_tripletloss.py , I met this'",[],open,2021-07-27T06:52:42Z,
+1203,b'Degradation of validation accuracy',[],open,2021-06-29T08:24:20Z,
+1202,b'converting transfer learned model to .pb',[],closed,2021-06-21T07:12:48Z,2021-07-02T11:57:05Z
+1201,b'How to judge the unknown face',[],open,2021-06-06T11:02:21Z,
+1200,b'Bump tensorflow from 1.7 to 2.5.0',['dependencies'],closed,2021-05-21T14:44:51Z,2021-08-25T14:54:48Z
+1199,b'Modify code  train_softmax for Tensorflow 2.4.1 ',[],open,2021-04-29T15:55:29Z,
+1198,b'Regarding creating custom model',[],open,2021-04-20T05:45:53Z,
+1197,b'Why need to sleep(random.random()) in the begining of align_dataset_mtcnn.py? ',[],closed,2021-04-08T06:51:40Z,2021-04-30T05:57:21Z
+1196,b'Optimal hyperparameter selection for softmax  training',[],open,2021-03-01T08:05:02Z,
+1195,b'Face',[],closed,2021-02-24T14:44:43Z,2021-02-24T14:45:02Z
+1194,b'run with tensorflow 2 on ubuntu 20',[],open,2021-02-24T08:12:14Z,
+1193,b'Deploying on jetson nano',[],open,2021-02-11T16:37:39Z,
+1192,b'Modified code for Tensorflow 2.4 and scipy>1.0.0',[],open,2021-02-02T11:43:36Z,
+1191,b'Batch Size for Online Triplet Mining',[],open,2021-01-18T16:18:16Z,
+1190,b'Poor Performance for dark complexion faces',[],open,2021-01-07T08:00:03Z,
+1189,"b'Getting valueError : could not broadcast input array from shape (0,1364,3) into shape (0,0,3)'",[],open,2020-12-22T15:16:45Z,
+1188,b'update',[],closed,2020-12-16T08:03:20Z,2020-12-16T08:04:02Z

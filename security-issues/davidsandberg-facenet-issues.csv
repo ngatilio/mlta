@@ -1,0 +1,5 @@
+url,title,comments,state,created_at,closed_at
+https://api.github.com/repos/davidsandberg/facenet/issues/1210,b'Bump tensorflow from 1.7 to 2.5.1',[],open,2021-08-25 14:54:44,
+https://api.github.com/repos/davidsandberg/facenet/issues/1182,b'Bump tensorflow from 1.7 to 2.3.1',[b'Superseded by #1200.'],closed,2020-11-13 17:43:56,2021-05-21 14:44:55
+https://api.github.com/repos/davidsandberg/facenet/issues/1174,b'Bump tensorflow from 1.7 to 1.15.4',[b'Superseded by #1182.'],closed,2020-09-25 22:35:49,2020-11-13 17:44:01
+https://api.github.com/repos/davidsandberg/facenet/issues/1132,b'Bump tensorflow from 1.7 to 1.15.2',[b'Superseded by #1174.'],closed,2020-01-28 22:21:44,2020-09-25 22:35:53

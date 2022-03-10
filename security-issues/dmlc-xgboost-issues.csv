@@ -1,0 +1,2 @@
+url,title,comments,state,created_at,closed_at
+https://api.github.com/repos/dmlc/xgboost/issues/3816,b'[Blocking] [jvm-packages] Upgrade Scala to 2.11.12 to address CVE-2017-15288',[],closed,2018-10-21 00:13:00,2018-10-22 17:15:30

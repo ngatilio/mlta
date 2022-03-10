@@ -1,0 +1,31 @@
+id,Title,Tag,State,Open Date,Close Date
+2370,b'Fix Schema',[],closed,2022-01-27T19:18:51Z,2022-01-27T19:20:01Z
+2369,b'Remove ._old_format() from PermutationsExplainer',[],open,2022-01-27T00:13:42Z,
+2368,b'explanation._old_format() with PermutationExplainer',[],open,2022-01-27T00:06:48Z,
+2365,b'Multi output regressor',[],open,2022-01-26T12:29:42Z,
+2364,"b""CatBoostClassifier: SHAP values don't add up to the output""",[],open,2022-01-26T09:59:37Z,
+2363,"b'Enabling the matplotlib ""ax"" keyword argument to plot functions'",[],open,2022-01-25T14:59:30Z,
+2362,"b'[GPUTree] waterfall_plot requires a scalar base_values of the model output as the first parameter, but...'",[],open,2022-01-25T01:18:14Z,
+2361,b'File descriptor not closed in CatBoostTreeModelLoader ctor',[],open,2022-01-24T12:15:33Z,
+2360,b'import error (compatibility with the M1 chip?)',[],closed,2022-01-24T07:53:06Z,2022-01-24T07:57:48Z
+2359,"b""Previous versions' wheels are not kept for all distributions""",[],open,2022-01-21T09:56:52Z,
+2358,b'Shap value inconsistncy result',[],closed,2022-01-18T10:00:06Z,2022-01-18T10:29:53Z
+2357,b'SHAP for Reinforcment Learning',[],open,2022-01-17T15:42:08Z,
+2356,b'Bump follow-redirects from 1.11.0 to 1.14.7 in /javascript',['dependencies'],open,2022-01-14T08:35:17Z,
+2355,b'Fix _record_gradient attribute error in tensorflow>=2.5.0',[],open,2022-01-12T15:30:26Z,
+2354,"b""add dependece_plot 'ymin' and 'ymax' args""",[],open,2022-01-11T06:39:11Z,
+2353,b'correct plt to pl',[],open,2022-01-10T21:46:18Z,
+2352,"b""cannot import name 'DenseData' and 'visualize' from 'shap'""",[],open,2022-01-10T18:20:39Z,
+2351,"b""ModuleNotFoundError: No module named 'cv2'""",[],open,2022-01-10T18:11:35Z,
+2350,b'[contributions_matrix] How to convert logodds explanations to probabilities?',[],open,2022-01-10T16:38:01Z,
+2349,b'How to deal with Correlated features in shap',[],open,2022-01-10T09:20:22Z,
+2348,b'GPUTreeShap updates',[],open,2022-01-07T12:40:38Z,
+2347,b'code for Supplementary Figure 5',[],open,2022-01-07T09:10:05Z,
+2346,b'reshape error in HAN model with multi inputs and timedistributed',[],open,2022-01-06T09:26:55Z,
+2345,b'SHAP Tree algorithm breaks Shapley symmetry property',[],open,2022-01-05T17:30:53Z,
+2344,b'Can SHAP explain a model based on the lack of presence of a particular feature?',[],open,2022-01-05T10:13:37Z,
+2343,"b""AttributeError: 'Exact' object has no attribute 'shape'""",[],closed,2022-01-02T01:42:28Z,2022-01-02T02:24:59Z
+2342,b'Fix bug in waterfall with show=False',[],open,2021-12-31T11:55:48Z,
+2341,b'transformers.pipeline dont have task of text_classification',[],open,2021-12-29T12:20:12Z,
+2340,b'shap.summary_plot(title)',[],open,2021-12-29T10:34:01Z,
+2339,b'Segmentation Fault for Catboost Regressor on M1 Mac',[],open,2021-12-28T18:26:47Z,

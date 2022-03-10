@@ -1,0 +1,31 @@
+id,Title,Tag,State,Open Date,Close Date
+286,b'Can Hyperas natively return data regarding all models ran during an optimization cycle?',[],open,2022-01-27T22:23:07Z,
+285,"b""KeyError: job exception: 'val_acc'""",[],open,2021-12-15T03:35:31Z,
+284,"b""AttributeError: 'numpy.random.mtrand.RandomState' object has no attribute 'integers'""",[],open,2021-12-14T04:10:45Z,
+283,"b'How can it be guaranteed to run all combinations if only ""choice"" is used.'",[],open,2020-11-25T22:49:43Z,
+282,b'custom def on kernel_initializer',[],open,2020-10-22T07:33:39Z,
+281,"b'Cannot run hyperas on databricks, [Errno 2] No such file or directory: ""/databrikcs/driver/notebook_name""'",[],open,2020-10-15T17:48:42Z,
+280,"b'Optmizing CNN - TypeError: module, class, method, function, traceback, frame, or code object was expected, got tuple'",[],open,2020-07-14T21:42:56Z,
+279,"b""UnicodeDecodeError: 'gbk' codec can't decode byte 0xa2 in position 885: illegal multibyte sequence""",[],closed,2020-06-17T01:40:32Z,2020-06-22T08:32:15Z
+278,"b""UnicodeDecodeError: 'gbk' codec can't decode byte 0xa2 in position 885: illegal multibyte sequence""",[],closed,2020-06-17T01:40:04Z,2020-06-22T08:31:48Z
+277,"b""UnicodeDecodeError: 'gbk' codec can't decode byte 0xa2 in position 885: illegal multibyte sequence""",[],closed,2020-06-17T01:37:53Z,2020-06-22T08:31:33Z
+276,"b""Cross validation inside 'data' function""",[],open,2020-04-10T20:24:30Z,
+275,"b"" NameError: name 'train_predict' is not defined""",[],open,2020-04-06T15:22:46Z,
+274,b'IndexError: list index out of range',[],closed,2020-04-04T19:20:06Z,2020-04-07T00:11:42Z
+273,"b'Error in SVM as:- AttributeError: \'RandomizedSearchCV\' object has no attribute \'best_estimator_\' and \'NameError: name \'X_train_confirmed\' is not defined""'",[],open,2020-03-20T13:28:13Z,
+272,b'can not import optim',[],open,2020-02-24T03:40:39Z,
+271,b'Case of google colab notebook connected to local run time: how to specify then the argument notebook_name?',[],open,2020-02-18T16:14:20Z,
+270,b'Fixing parenthesis',[],closed,2020-01-24T05:41:02Z,2020-10-02T08:10:05Z
+269,b'Missing parenthesis in README file.',[],open,2020-01-24T05:39:14Z,
+268,"b""ModuleNotFoundError: No module named 'tensorflow' after hyperas installation """,[],closed,2020-01-07T07:51:47Z,2020-01-08T08:57:01Z
+267,b'Remove or update the website at http://maxpumperla.com/hyperas/',[],open,2019-12-28T15:16:57Z,
+266,"b'ValueError: Error when checking input: expected conv2d_1_input to have shape (216, 360, 3) but got array with shape (300, 500, 3)'",[],open,2019-12-20T19:43:31Z,
+265,b'Fixed #264',[],closed,2019-12-13T00:01:02Z,2019-12-13T08:22:58Z
+264,b'indentation error in data()',[],closed,2019-12-11T00:59:02Z,2019-12-13T08:22:58Z
+263,b'data_args i optim.minimize',[],closed,2019-12-06T09:19:18Z,2019-12-10T03:57:43Z
+262,"b'Optimizing LSTM with embedding matrix - TypeError: module, class, method, function, traceback, frame, or code object was expected, got tuple'",[],open,2019-11-27T09:00:58Z,
+261,b'InternalError',[],closed,2019-11-26T01:51:57Z,2019-11-26T01:53:39Z
+260,b'Is it possible to pass data set to parameter-less data() function (not load from the file)',[],closed,2019-11-15T14:10:25Z,2019-11-18T15:17:49Z
+259,b'How to use keras clear_session() with hyperas?',[],closed,2019-11-03T17:23:45Z,2019-11-10T18:02:40Z
+258,b'[Question] Running each trial on a different GPU?',[],open,2019-10-22T22:39:52Z,
+257,"b""Can't import custom activation function to choose from in optimization""",[],open,2019-09-29T01:46:28Z,

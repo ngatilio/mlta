@@ -1,0 +1,31 @@
+id,Title,Tag,State,Open Date,Close Date
+63,b'sqlite default filename is not Windows compatible',[],open,2021-12-28T21:26:57Z,
+62,b'UnicodedecodeErroe',[],closed,2021-09-20T19:56:58Z,2021-09-21T17:39:04Z
+61,"b"" AttributeError: module 'ml_metadata.metadata_store' has no attribute 'MetadataStore'""",[],closed,2021-08-27T03:34:58Z,2021-08-30T03:49:11Z
+60,b'Update README.md',[],open,2021-07-26T12:43:38Z,
+59,b'How to know which model is the best and what is its accuracy?',[],open,2021-07-14T14:23:38Z,
+58,b'How to predict from model_search saved_model.pb',[],open,2021-05-17T10:29:41Z,
+57,b'Training on Multiclass Image Dataset',[],open,2021-05-01T18:31:24Z,
+56,b'Possible beta for  Regression Modeling?',[],open,2021-04-21T07:33:05Z,
+55,b'Documentation for Utilizing Output of Model Search?',[],open,2021-04-21T07:31:44Z,
+54,b'Neural Network Architecture Details',[],open,2021-04-16T18:49:36Z,
+53,b'RuntimeError: Cannot connect sqlite3 database: unable to open database file',[],closed,2021-04-15T06:42:31Z,2021-04-19T09:10:47Z
+52,"b""I'm confused by distributed search, any suggestions are welcomed!""",[],open,2021-04-12T07:59:21Z,
+51,b'Is it feasible to use MirroredStrategy for training?',[],open,2021-04-08T16:17:51Z,
+50,b'Is there anyway we can use model_search for object detection also ?',[],open,2021-04-08T11:14:18Z,
+49,b'Model Architecture Output?',[],open,2021-04-03T20:26:51Z,
+48,b'fix BottleNeckBlock skip_connect bug',[],open,2021-03-28T10:43:16Z,
+47,b'Evaluating Model Search Results',[],open,2021-03-27T20:55:18Z,
+46,b'Could it search for models that use time series such as RNN',[],open,2021-03-25T02:09:54Z,
+45,b'RuntimeError: Error when executing query: file is not a database query',[],open,2021-03-23T15:20:14Z,
+44,"b'How to Train a model with 2 dimensional dataset , ie. sentence with wordVec'",[],open,2021-03-23T02:10:55Z,
+43,b'Inputs to the model',[],open,2021-03-22T15:50:39Z,
+42,b'Does the model_search support tf1.x?',[],open,2021-03-16T10:03:09Z,
+41,b'FailedPreconditionError: No completed trials to perform ensembling.',[],open,2021-03-13T17:25:15Z,
+40,b'Update Installation Guide',[],open,2021-03-11T03:27:22Z,
+39,b'Predicitions/Inference using the searched model',[],open,2021-03-10T13:39:00Z,
+38,b'InvalidArgumentError: Field 1 in record is not a valid int32',[],closed,2021-03-09T20:36:30Z,2021-03-10T15:56:31Z
+37,b'KeyError: 0',[],closed,2021-03-09T10:39:54Z,2021-03-11T10:08:31Z
+36,b'UnparsedFlagAccessError: Trying to access flag --phoenix_master before flags were parsed.',[],open,2021-03-05T14:00:41Z,
+35,"b"" this two block don't define in the block.py and don't support float64  when net = tf_slim.batch_norm(net, is_training=is_training)""",[],open,2021-03-05T03:51:36Z,
+34,b'Branch2',[],open,2021-03-04T00:26:18Z,

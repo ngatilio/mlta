@@ -1,0 +1,31 @@
+id,Title,Tag,State,Open Date,Close Date
+3257,b'Make `show_progress_bar` tests simpler',"['test', 'contribution-welcome', 'good first issue']",open,2022-01-27T10:14:37Z,
+3256,b'More control over how GridSampler prioritizes configurations after search space is exhausted',['feature'],closed,2022-01-27T09:03:09Z,2022-01-28T08:58:27Z
+3255,b'Resuming Study',['question'],closed,2022-01-26T16:51:19Z,2022-01-28T06:56:24Z
+3254,b'integrate with Lightning ecosystem CI',['feature'],open,2022-01-25T10:24:17Z,
+3253,b'Update explanation for metrics of AllenNLPExecutor',"['document', 'optuna.integration']",closed,2022-01-25T07:10:01Z,2022-01-28T07:56:12Z
+3252,"b'Add {Float,Int}Distribution to docs'",['document'],closed,2022-01-25T06:40:17Z,2022-01-26T01:33:45Z
+3251,b'[RFC] Make trials editable after they are finished',"['feature', 'no-stale', 'v3']",open,2022-01-24T05:23:57Z,
+3250,b'Investigate the necessary to use python 3.8 for documentation build',"['document', 'contribution-welcome', 'good first issue']",open,2022-01-24T04:16:54Z,
+3249,b'Fix axis range issue in matplotlib contour plot',"['optuna.visualization', 'v3']",open,2022-01-23T15:10:21Z,
+3248,b'Fix `Raises` section of `FloatDistribution` docstring',[],closed,2022-01-22T16:19:14Z,2022-01-24T02:40:00Z
+3247,"b'When I retrain the model using the parameters of best_trial,  I cannot achieve the F1 of optuna turning result'",['question'],open,2022-01-21T12:58:26Z,
+3246,b'Enable `FloatDistribution` and `IntDistribution`',"['optuna.testing', 'optuna.trial']",open,2022-01-21T10:09:09Z,
+3245,b'Introduce a rich benchmark environment in CI',"['CI', 'contribution-welcome', 'no-stale', 'v3']",open,2022-01-21T07:46:28Z,
+3244,"b'Make existing int/float distributions wrapper of {Int,Float}Distribution'","['compatibility', 'v3']",closed,2022-01-21T06:30:27Z,2022-01-26T08:00:12Z
+3243,b'Load older optuna dumped study ',['question'],closed,2022-01-21T01:40:15Z,2022-01-22T03:42:18Z
+3242,b'Replace AUC with accuracy in docs',"['document', 'optuna.integration']",closed,2022-01-20T10:12:16Z,2022-01-21T01:46:39Z
+3241,"b""'int' object has no attribute 'suggest_loguniform'""",['question'],closed,2022-01-20T09:15:13Z,2022-01-24T05:17:44Z
+3240,b'Fix type hints for Python 3.8.',"['code-fix', 'optuna.integration', 'optuna.samplers', 'optuna.visualization']",open,2022-01-20T05:14:15Z,
+3239,b'Use Python 3.7 in checks CI job',['CI'],closed,2022-01-20T04:07:51Z,2022-01-20T04:52:27Z
+3238,b'Handle `-inf` and `inf` values in `RDBStorage`',"['bug', 'optuna.storages', 'v3']",open,2022-01-18T19:06:18Z,
+3237,b'Remove Sphinx version constraint',"['code-fix', 'installation']",closed,2022-01-18T12:55:44Z,2022-01-27T12:12:49Z
+3236,b'Are user_attrs used by the optimizers during optimization',['question'],closed,2022-01-17T19:56:41Z,2022-01-19T03:29:14Z
+3235,b'Remove `type_checking.py`',['compatibility'],closed,2022-01-17T13:42:27Z,2022-01-19T03:04:03Z
+3234,b'Make tests of `plot_optimization_history` methods consistent',"['test', 'code-fix', 'optuna.visualization', 'v3']",open,2022-01-17T08:57:44Z,
+3233,b'Unify the validation function of edf value between visualization backends',"['test', 'v3']",closed,2022-01-17T05:29:26Z,2022-01-21T08:23:48Z
+3232,b'Implement missing `matplotlib.contour_plot` test',"['test', 'v3']",closed,2022-01-16T11:33:38Z,2022-01-18T02:01:06Z
+3231,b'Remove version constraint of `setuptools`',['installation'],closed,2022-01-15T09:50:54Z,2022-01-20T02:23:31Z
+3230,b'[RFC] Extend the type annotation of `catch` argument of `study.optimize`',"['enhancement', 'feature']",open,2022-01-14T10:34:51Z,
+3229,b'Add FAQ entry for hearbeat',"['document', 'v3']",closed,2022-01-13T14:06:09Z,2022-01-26T15:03:50Z
+3228,b'Stabilize allennlp integrations',"['compatibility', 'optuna.integration', 'v3']",closed,2022-01-13T13:40:01Z,2022-01-14T02:44:34Z

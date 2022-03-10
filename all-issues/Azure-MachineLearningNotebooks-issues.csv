@@ -1,0 +1,31 @@
+id,Title,Tag,State,Open Date,Close Date
+1676,b'Update samples from Release-120 as a part of  SDK release',"['do-not-merge', 'review-team-triage']",closed,2022-01-28T07:02:41Z,2022-01-28T17:51:49Z
+1675,b'Cannot create AKS GPU clusters',[],open,2022-01-27T17:39:26Z,
+1674,b'Pipeline run failed with status InternalServerError. 404 error when viewing logs',[],open,2022-01-26T22:44:02Z,
+1673,b'update samples from Release-118 as a part of  SDK release 1.38',"['do-not-merge', 'review-team-triage']",closed,2022-01-24T22:19:37Z,2022-01-25T01:07:36Z
+1672,"b'""datastore.upload_files"" is deprecated after version 1.0.69'",[],open,2022-01-23T01:21:30Z,
+1671,b'AutoML pipeline for object detection training: subprocess failed to get dependencies list from conda',[],open,2022-01-19T20:56:25Z,
+1670,b'OutputDatasetConfig.register_on_complete registers dataset if the step finish with error',[],open,2022-01-19T13:40:05Z,
+1669,b'Does the change based schedule in pipeline support listening to a specific file or can it only listen to folders?',[],open,2022-01-19T09:47:13Z,
+1668,b'Unable to install azureml-pipeline via pip',[],closed,2022-01-19T06:23:53Z,2022-01-21T09:46:14Z
+1667,b'Difference between upload and mount',[],open,2022-01-17T09:56:07Z,
+1666,b'ModuleNotFoundError when using horovod in compute cluster',[],open,2022-01-14T12:34:39Z,
+1665,b'`training_data` in AutoMLConfig can not be a pandas data frame',[],open,2022-01-13T13:55:13Z,
+1664,"b'azureml-sdk (azureml-dataprep) has dependency on dotnetcore2, which is outdated and has security vulnerability'",[],open,2022-01-12T08:06:48Z,
+1663,b'Provide documentation on ScheduleRecurrence attributes',[],open,2022-01-05T14:14:18Z,
+1662,b'the link destination is invalid',[],open,2021-12-29T04:41:14Z,
+1661,"b'Virtual Network, VM, Private End Point, and Compute Kernel Errors'",[],open,2021-12-26T21:34:10Z,
+1660,"b"" cannot import name 'ImageTask' from 'azureml.automl.core.shared.constants' (/anaconda/envs/azureml_py38/lib/python3.8/site-packages/azureml/automl/core/shared/constants.py)""",[],open,2021-12-21T16:22:18Z,
+1659,b'Tensorboard not working following the documentation.',[],open,2021-12-17T09:47:00Z,
+1658,b'Update samples from Release sdk 1.37.0 as a part of  SDK release',[],closed,2021-12-13T18:29:08Z,2021-12-13T18:36:09Z
+1657,"b""AzureDataLakeGen2Datastore object has no attribute 'file_share_name'""",[],open,2021-12-11T02:00:02Z,
+1656,"b""AttributeError: '_OfflineRun' object has no attribute 'InputDatasets'""",[],closed,2021-12-11T01:11:18Z,2022-01-09T19:17:06Z
+1655,b'Custom Dockerfile on Azure Environment with python poetry',[],open,2021-12-09T18:47:54Z,
+1654,b'AzureBatchStep to run container applications',[],open,2021-12-08T17:17:21Z,
+1653,b'monitor.backfill() in datadrift tutorial is quite time consuming',[],open,2021-12-08T04:25:38Z,
+1652,"b""'RegressionPipeline' object has no attribute 'forecast' (Azure AutoML - Regression tasks)""",[],open,2021-12-02T09:24:08Z,
+1651,b'fix-notebook-runner-sample',"['do-not-merge', 'review-team-triage']",open,2021-12-02T02:53:00Z,
+1650,b'Using the Custom Module in AzureML Designer',[],open,2021-12-01T04:44:23Z,
+1649,b'Error while adding environment variables to conda yml',[],closed,2021-11-29T20:27:29Z,2022-01-26T02:40:47Z
+1648,b'ParallelRunStep on Intermediate Partitioned File Dataset Failing',[],open,2021-11-29T15:50:42Z,
+1647,b'Make `AutoMLConfig` configurable with `PipelineParameter`',[],open,2021-11-29T09:30:14Z,

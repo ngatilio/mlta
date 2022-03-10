@@ -1,0 +1,31 @@
+id,Title,Tag,State,Open Date,Close Date
+252,b'Update google_cloud_pipeline_components_automl_images.ipynb',[],open,2022-01-28T07:50:39Z,
+251,b'Add Vertex Workbench Executor testing',[],open,2022-01-27T22:22:10Z,
+250,b'fix: predict on exported BQML model',[],closed,2022-01-27T18:06:38Z,2022-01-27T18:35:20Z
+249,b'Pricingoptimization',[],open,2022-01-27T07:47:44Z,
+248,b'feat: Added test_notebook_vm.txt to only test fast-running notebooks',[],open,2022-01-26T21:57:38Z,
+247,b'test: rm caching of components',[],open,2022-01-26T21:43:12Z,
+246,b'feat: xgboost notebook',[],closed,2022-01-26T20:07:28Z,2022-01-26T20:09:08Z
+245,b'Deployment Prediction Error ',[],open,2022-01-26T17:54:46Z,
+244,b'Update CODEOWNERS with new community blog post',[],closed,2022-01-26T14:48:00Z,2022-01-26T17:16:49Z
+243,b'feat: sklearn training',[],closed,2022-01-26T06:14:52Z,2022-01-26T06:15:51Z
+242,b'Google cloud logging type ERROR for regular training progress output',[],open,2022-01-26T04:08:34Z,
+241,b'chore(deps): update dependency pyupgrade to v2.31.0',[],closed,2022-01-25T20:11:38Z,2022-01-26T14:53:32Z
+240,b'chore(deps): update dependency nbqa to v1.2.3',[],closed,2022-01-25T20:11:35Z,2022-01-26T14:49:47Z
+239,b'feat: finish hpt components notebook',[],closed,2022-01-25T17:58:56Z,2022-01-25T18:02:28Z
+238,"b""Relax requirements for DLVM's""",[],closed,2022-01-25T17:21:10Z,2022-01-26T21:47:10Z
+237,b'chore: Update notebook template license date to 2022',[],closed,2022-01-25T16:54:35Z,2022-01-25T17:20:00Z
+236,b'[community-content] PyTorch on Google Cloud Vertex AI - Blog related notebook and scripts',[],closed,2022-01-25T03:26:53Z,2022-01-26T14:46:10Z
+235,b'Relaxed ipython requirement',[],closed,2022-01-24T19:14:04Z,2022-01-24T19:54:31Z
+234,b'chore(deps): update dependency papermill to v2.3.4',[],closed,2022-01-22T23:48:35Z,2022-01-24T16:46:32Z
+233,b'chore(deps): update dependency pandas to v1.4.0',[],closed,2022-01-22T15:59:24Z,2022-01-24T19:58:51Z
+232,b'feat: add notebooks',[],closed,2022-01-22T01:14:17Z,2022-01-22T01:14:31Z
+231,b'Update Dockerfile to remove warning',[],closed,2022-01-20T23:24:29Z,2022-01-21T20:39:07Z
+230,b'[DO NOT MERGE] feat: Only lint files that are within certain folders',[],open,2022-01-20T20:59:40Z,
+229,b'fix: pipeline nocache',[],closed,2022-01-20T20:30:54Z,2022-01-26T21:43:28Z
+228,b'Update Run After --> Run Selected Cell and All Below',[],closed,2022-01-20T12:49:26Z,2022-01-20T14:07:31Z
+227,b'[community-content] PyTorch on Google Cloud Vertex AI - Blog related notebook and scripts',[],closed,2022-01-20T04:59:57Z,2022-01-20T19:20:01Z
+226,b'Add metadata to hide cells',[],closed,2022-01-20T03:25:40Z,2022-01-21T22:57:24Z
+225,b'intro-swivel downloads external code',[],open,2022-01-19T21:12:43Z,
+224,b'Increasing indent to pass linting for alphafold_on_gcp',[],closed,2022-01-19T20:38:10Z,2022-01-20T01:24:15Z
+223,b'feat: add ml metadata notebook',[],closed,2022-01-19T18:51:17Z,2022-01-19T18:58:04Z

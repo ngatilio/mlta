@@ -1,0 +1,31 @@
+id,Title,Tag,State,Open Date,Close Date
+818,"b""Can't install flashlight-cuda with vcpkg""",['bug'],open,2022-01-27T19:06:39Z,
+817,b'Use new CircleCI instance types',['CLA Signed'],open,2022-01-27T16:51:11Z,
+816,"b""Fix flat indexing with leading singleton dims, don't use AF handles for concat""","['CLA Signed', 'fb-exported']",closed,2022-01-25T16:30:53Z,2022-01-27T12:25:17Z
+815,b'Bump pillow from 8.2.0 to 9.0.0 in /flashlight/app/objdet/scripts',"['CLA Signed', 'dependencies']",open,2022-01-13T03:39:48Z,
+814,"b'unknown export ""flashlightTargets""'",['question'],open,2022-01-11T13:06:51Z,
+813,"b'unknown export ""flashlightTargets""'",['bug'],closed,2022-01-11T12:46:42Z,2022-01-11T13:07:08Z
+812,b'Add fl::getDeviceCount',"['CLA Signed', 'fb-exported']",closed,2022-01-10T20:56:01Z,2022-01-11T12:26:03Z
+811,b'Add isDataTypeSupported on tensor backends',"['CLA Signed', 'fb-exported']",closed,2022-01-10T20:55:37Z,2022-01-11T12:26:04Z
+810,b'Add shape indexing protection',"['CLA Signed', 'fb-exported']",closed,2022-01-10T20:55:30Z,2022-01-11T12:26:02Z
+809,b'Add sort op that returns both values and indices',"['CLA Signed', 'fb-exported']",closed,2022-01-10T20:55:19Z,2022-01-11T12:26:03Z
+808,b'Clean up Tensor and Shape stringification',"['CLA Signed', 'fb-exported']",closed,2022-01-10T20:55:07Z,2022-01-11T12:26:03Z
+807,b'Flashlight installation build Error',['question'],open,2021-12-27T15:26:06Z,
+806,b'Fix not found error when specify customized BLAS path using environment variable',['CLA Signed'],open,2021-12-27T10:38:58Z,
+805,b'The tutorial fine-tuning asr fails even with 16GB GPU memory ?',['question'],open,2021-12-25T14:04:46Z,
+804,b'How to us fl_asr_tutorial_inference',['question'],open,2021-12-22T22:52:42Z,
+803,b'support compiling under windows?',['question'],open,2021-12-20T08:46:11Z,
+801,b'Change app/asr to use fl::Tensor',"['CLA Signed', 'fb-exported']",open,2021-12-16T23:51:10Z,
+800,b'How can I resolve this ArrayFire error with Flashlight ASR? ',['question'],open,2021-12-15T15:56:58Z,
+799,b'FlashLight installation failed - lpthread ',['bug'],open,2021-12-13T15:30:42Z,
+798,b'VCPKG installation cmake fail',[],open,2021-12-10T16:57:56Z,
+797,b'can not install flashlight-cuda by vcpkg',['bug'],open,2021-12-10T14:48:01Z,
+796,b'Change fl/optim to use fl::Tensor',"['CLA Signed', 'fb-exported']",open,2021-12-09T00:19:45Z,
+795,b'Change pkg/text to use fl::Tensor',"['CLA Signed', 'fb-exported']",open,2021-12-09T00:19:42Z,
+794,b'Change pkg/speech/runtime to use fl::Tensor',"['CLA Signed', 'fb-exported']",open,2021-12-09T00:19:41Z,
+793,b'Migrate fl/common to use fl::Tensor',"['CLA Signed', 'fb-exported']",open,2021-12-09T00:19:36Z,
+792,b'Migrate fl/contrib/modules to fl::Tensor',"['CLA Signed', 'fb-exported']",open,2021-12-09T00:19:13Z,
+791,b'Migrate fl/dataset to fl::Tensor',"['CLA Signed', 'fb-exported']",open,2021-12-09T00:19:06Z,
+790,b'Change pkg/speech/data to use fl::Tensor',"['CLA Signed', 'fb-exported']",open,2021-12-09T00:18:41Z,
+789,b'Migrate fl/nn to fl::Tensor',"['CLA Signed', 'fb-exported']",open,2021-12-09T00:18:39Z,
+788,b'Migrate fl/distributed to fl::Tensor',"['CLA Signed', 'fb-exported']",open,2021-12-09T00:18:10Z,

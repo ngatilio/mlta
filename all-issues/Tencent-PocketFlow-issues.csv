@@ -1,0 +1,31 @@
+id,Title,Tag,State,Open Date,Close Date
+327,b'test',[],open,2021-08-14T11:59:52Z,
+326,b'Fix typo',[],open,2021-01-15T22:06:42Z,
+325,b'Fix typo.',[],closed,2020-11-16T00:56:06Z,2020-11-18T13:56:28Z
+324,b'auto \xe9\x80\x9a\xe9\x81\x93\xe8\xa3\x81\xe5\x89\xaa\xe9\x97\xae\xe9\xa2\x98',[],open,2020-07-25T08:36:01Z,
+323,b'Other issues:',[],closed,2020-03-05T18:34:44Z,2020-05-14T15:51:23Z
+322,b'IndexError: list index out of range',[],open,2020-02-27T07:18:37Z,
+321,b'FRCNN with VOC: Cannot batch tensors with different shapes in component 1.',[],open,2020-02-04T05:48:29Z,
+320,b'Default tensorboard log output is huge',[],open,2019-12-16T20:00:50Z,
+319,b'Question about UniformLearner',[],closed,2019-12-16T10:31:52Z,2019-12-18T03:06:20Z
+318,b'Is it possible to compress the keras model with Pocket Flow',[],open,2019-11-06T02:49:28Z,
+317,b'Failed to create session',[],open,2019-10-09T02:00:59Z,
+316,b'TF Version compatibility',[],closed,2019-10-07T21:24:51Z,2019-12-17T08:15:17Z
+315,b'Question about export_chn_pruned_tflite_model.py',[],closed,2019-09-26T11:33:04Z,2019-09-29T07:44:50Z
+314,"b""You must feed a value for placeholder tensor 'model/input_1' with dtype float and shape [?,160,240,1]""",[],open,2019-09-22T10:17:00Z,
+313,b'Download Pretrain Model But Get 502 Bad Gateway Error',[],closed,2019-09-19T08:32:40Z,2019-09-23T06:45:26Z
+312,b'Missing 1 required positional argument in constructor : data_format',[],open,2019-09-17T13:53:04Z,
+311,"b""TypeError: forward_train() missing 1 required positional argument: 'objects'""",[],open,2019-09-17T06:21:48Z,
+310,b'\xe6\x88\x91\xe5\x8f\xaf\xe4\xbb\xa5\xe5\x8f\xaa\xe7\x94\xa8\xe6\xa8\xa1\xe5\x9e\x8b\xe5\x8e\x8b\xe7\xbc\xa9\xe9\x83\xa8\xe5\x88\x86\xe4\xb9\x88\xef\xbc\x9f',[],open,2019-09-16T03:56:04Z,
+309,b'QQ group ',[],open,2019-09-11T09:14:45Z,
+308,b'Can the compression method provided by pocketflow be applied to MASK R-CNN?',[],open,2019-09-06T00:37:13Z,
+307,b'cifar10_channel pruned \xe7\x9a\x84\xe7\xa4\xba\xe4\xbe\x8b\xef\xbc\x8c\xe9\x80\x9a\xe9\x81\x93\xe5\x89\xaa\xe6\x9e\x9d(channel_pruning) \xe5\xaf\xbc\xe5\x87\xba\xe4\xbf\xae\xe6\x94\xb9\xe4\xba\x86\xe8\xae\xa1\xe7\xae\x97\xe5\x9b\xbe\xe4\xb9\x8b\xe5\x90\x8e\xef\xbc\x8c\xe9\x80\x9f\xe5\xba\xa6\xe6\xaf\x94\xe4\xb9\x8b\xe5\x89\x8d\xe7\x9a\x84\xe6\x9b\xb4\xe6\x85\xa2\xe4\xba\x86\xef\xbc\x81',[],closed,2019-09-02T07:44:05Z,2019-09-03T11:22:40Z
+306,"b""can't export channel_pruned_gpu model""",[],closed,2019-08-29T10:01:27Z,2019-08-29T14:15:32Z
+305,b'dcp\xe5\x8e\x8b\xe7\xbc\xa9\xe5\x90\x8e\xef\xbc\x8c\xe6\xa8\xa1\xe5\x9e\x8b\xe5\xa4\xa7\xe5\xb0\x8f\xe4\xb8\x8d\xe5\x8f\x98',[],open,2019-08-28T07:41:06Z,
+304,b'\xe7\x9b\xae\xe5\x89\x8dpocketflow\xe5\x8f\xaa\xe6\x94\xaf\xe6\x8c\x81tensorflow\xe5\x90\x97\xef\xbc\x9f\xef\xbc\x9f',[],closed,2019-08-22T07:38:00Z,2019-08-29T05:41:34Z
+303,"b""ValueError: None is only supported in the 1st dimension. Tensor 'input_1' has invalid shape '[None, None, None, 3]'.""",[],closed,2019-08-08T03:57:20Z,2019-08-13T20:34:07Z
+302,b'Does channel prune rmt support nchw model?',[],open,2019-07-30T02:50:24Z,
+301,b'cuda10 2080Ti mutil_gpu solutions',[],open,2019-07-24T02:37:15Z,
+300,b'mobilenetv2 faster rcnn uniform \xe9\x87\x8f\xe5\x8c\x96\xe8\xae\xad\xe7\xbb\x83\xe6\x8a\xa5\xe9\x94\x99',[],open,2019-07-18T17:36:13Z,
+299,b'mobilenetv2 faster rcnn  uniform-tf ',[],open,2019-07-18T17:34:41Z,
+298,b'Mobilenet prunning is not efficient',[],open,2019-07-17T13:40:21Z,

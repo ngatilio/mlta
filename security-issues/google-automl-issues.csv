@@ -1,0 +1,2 @@
+url,title,comments,state,created_at,closed_at
+https://api.github.com/repos/google/automl/issues/941,b'Bump lxml from 4.5.0 to 4.6.2 in /efficientdet',"[b'Looks like lxml is up-to-date now, so this is no longer needed.']",closed,2021-02-09 01:27:59,2021-02-09 01:29:04

@@ -1,0 +1,31 @@
+id,Title,Tag,State,Open Date,Close Date
+2494,b'Run appveyor python tests on python 3.10 and stop testing on 3.6',[],open,2022-01-28T02:37:38Z,
+2493,b'See what appveyor says about this',[],closed,2022-01-28T02:27:58Z,2022-01-28T12:51:49Z
+2492,b'Resolve davisking/dlib#2463',[],closed,2022-01-27T14:52:17Z,2022-01-28T12:55:00Z
+2491,b'face_recognition.py crashes when calling compute_face_descriptor',[],open,2022-01-27T14:51:37Z,
+2490,b'Treat warnings as errors in non-MSVC builds',[],open,2022-01-17T04:31:50Z,
+2489,b'Fix Layer Normalize',[],closed,2022-01-16T07:15:59Z,2022-01-23T16:29:28Z
+2488,b'Eliminate grid sensitivity in YOLO',[],closed,2022-01-15T18:15:58Z,2022-01-23T16:36:45Z
+2487,b'Fix warning about unused zero_gradients parameter',[],closed,2022-01-14T07:41:28Z,2022-01-15T14:22:43Z
+2486,b'Issue with the LayerNorm implementation',[],closed,2022-01-13T14:12:20Z,2022-01-23T22:30:13Z
+2485,b'Add support for grouped convolutions',[],open,2022-01-13T07:46:18Z,
+2484,b'dlib 19.22 without cmake and with CUDA',[],open,2022-01-12T11:09:54Z,
+2483,b'Fix MSVC pragma warnings with other compilers',[],closed,2022-01-10T03:01:18Z,2022-01-10T11:02:20Z
+2482,b'How to save face chips without rotation\xef\xbc\x9f',[],open,2022-01-06T17:40:50Z,
+2481,b'Avoid different kinds of compiler warnings',[],closed,2022-01-03T13:22:44Z,2022-01-06T14:03:48Z
+2480,b'python setup.py install not working on Windows 10 Python 3.10',[],closed,2022-01-01T14:45:53Z,2022-01-02T01:19:14Z
+2477,b'add option to not zero out gradients and method to do it',[],closed,2021-12-21T21:36:58Z,2022-01-05T13:46:55Z
+2475,b'[TYPE_SAFE_UNION] simplified some type traits and added for_each().',[],closed,2021-12-17T13:20:53Z,2022-01-23T16:26:16Z
+2474,b'Building tests with clang causes LLVM to crash',[],closed,2021-12-17T12:50:19Z,2022-01-27T14:26:28Z
+2473,b'About save_face_chips with rotation',[],open,2021-12-17T08:05:28Z,
+2472,b'Avoid distracting compiler warning',[],closed,2021-12-16T03:54:41Z,2021-12-16T13:13:09Z
+2471,b'Fix a crash when the truth center is outside the image',[],closed,2021-12-07T16:34:54Z,2021-12-08T02:49:07Z
+2470,b'**this is not an issue but a question** microprocessor extensions SSE AVX',[],closed,2021-12-03T13:40:18Z,2021-12-06T13:18:25Z
+2469,b'import dlib fails on macosx arm64',[],closed,2021-12-02T18:47:16Z,2021-12-07T11:55:40Z
+2468,b'Error when running setup.py while building with CUDA support',[],closed,2021-12-02T16:20:56Z,2021-12-02T16:34:59Z
+2467,b'Considerations for run_multiple with HOG detectors',[],closed,2021-12-01T10:39:24Z,2021-12-04T16:51:26Z
+2466,b'Use lambda obj in the ignore case and do some refactoring',[],closed,2021-11-22T20:28:43Z,2021-11-25T15:37:14Z
+2465,b'Add dlib::rdrand kernel to support digital random numbers generation with RDRND instructions',[],closed,2021-11-21T01:22:39Z,2021-11-24T23:57:10Z
+2464,b'GCC 11 warns of UB in matrix_la.h',[],closed,2021-11-21T00:41:50Z,2021-12-16T13:13:09Z
+2463,b'Dlib failed to build due to many errors: error C2065 and C2338',[],closed,2021-11-20T14:46:38Z,2022-01-28T12:55:02Z
+2462,b'Add semicolon as separator for reading in a matrix',[],closed,2021-11-19T12:14:46Z,2021-11-19T13:38:04Z

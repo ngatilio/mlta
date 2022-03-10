@@ -1,0 +1,31 @@
+id,Title,Tag,State,Open Date,Close Date
+370,b'[fix] Hotfix debug no training in simple intensifier',[],closed,2022-01-27T07:35:50Z,2022-01-27T15:24:44Z
+369,b'[FIX] Enable preprocessing in reg_cocktails',[],open,2022-01-25T14:27:38Z,
+368,b'[ADD] Test evaluator',['enhancement'],closed,2022-01-11T12:02:26Z,2022-01-25T14:29:12Z
+367,b'Fix 361',[],closed,2021-12-25T18:50:43Z,2022-01-24T12:14:41Z
+366,b'Add fit ensemble',[],open,2021-12-25T17:58:42Z,
+365,b'[fix] Add first draft of the PR for issue#349',[],open,2021-12-22T02:52:07Z,
+364,b'[FIX] Docker publish error',[],open,2021-12-21T15:59:38Z,
+363,b'Update workflow files',[],closed,2021-12-15T20:18:06Z,2021-12-20T11:10:05Z
+362,b'Example on README does not work',['bug'],open,2021-12-14T08:52:48Z,
+361,b'[FIX] Epoch not finished when using `runtime` budget',['bug'],closed,2021-12-10T11:59:01Z,2022-01-25T09:18:06Z
+360,b'[REFACTOR] Reduce walltime of examples',['not urgent'],open,2021-12-10T10:45:54Z,
+359,b'[FIX] Tests after rebase of `reg_cocktails`',[],closed,2021-12-08T18:22:16Z,2021-12-10T12:02:43Z
+358,b'Reg cocktails',[],open,2021-12-08T17:45:54Z,
+357,b'[ADD] Docker publish workflow',[],closed,2021-12-07T11:50:26Z,2021-12-21T09:45:38Z
+356,b'train_tensors in BaseDataset is mis-interpreted',[],open,2021-12-06T15:05:06Z,
+355,b'Continuation of Issue#352',[],open,2021-12-06T14:59:40Z,
+354,b'[hotfix] Fix the issue mentioned in #352',['first priority'],open,2021-12-06T14:30:11Z,
+353,b'[REFACTOR] Too many variables in `search` and `fit_pipeline`. ',[],open,2021-12-02T12:54:10Z,
+352,"b'ValueError: Incompatible dataset entered for current task,expected dataset to have task type :tabular_regression got :tabular_classification'",['bug'],open,2021-12-02T07:50:41Z,
+351,b'[feat] Add the option to save a figure in plot setting params',[],closed,2021-12-01T18:18:11Z,2021-12-06T13:04:32Z
+350,b'plot_over_time might cause error in some environments',[],closed,2021-12-01T17:32:04Z,2021-12-06T15:08:34Z
+349,b'[Bug] Cross validation yields unexpected additional info',['bug'],open,2021-11-30T19:42:20Z,
+348,b'[ADD] fit pipeline honoring API constraints with tests',"['bug', 'first priority']",closed,2021-11-30T15:07:08Z,2021-12-20T16:18:57Z
+347,b'Failing Configuration',['bug'],open,2021-11-30T13:30:17Z,
+346,b'Cleanup of simple_imputer',[],closed,2021-11-30T10:44:36Z,2021-12-01T16:50:56Z
+345,b'Weird if statements in `SimpleImputer.py`',['refactoring'],closed,2021-11-30T09:58:17Z,2021-12-06T15:10:39Z
+344,"b""Maybe a typo or I don't understand""",['question'],closed,2021-11-30T09:51:19Z,2021-11-30T13:10:51Z
+343,b'Metric names in additional info are confusing',[],open,2021-11-25T18:36:25Z,
+342,b'[FIX formatting in docs',[],closed,2021-11-22T20:43:30Z,2021-11-22T21:55:01Z
+341,b'Final changes for v0.1.0',[],closed,2021-11-22T18:03:21Z,2021-11-23T11:17:07Z

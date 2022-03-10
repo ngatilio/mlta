@@ -1,0 +1,31 @@
+id,Title,Tag,State,Open Date,Close Date
+271,"b'The model should return just the generated text, not the prompt text + generated text.'",['feature request'],open,2022-01-23T22:11:24Z,
+270,b'The temperature at 0.0001 (or other arbitrarily small float) is still too high',['bug'],closed,2022-01-22T11:37:35Z,2022-01-23T00:29:45Z
+269,b'Not able to generate predicted text after `Done with copy master to slices.` with 1.3B pre-trained model',[],open,2022-01-21T12:25:23Z,
+268,"b'Generation should allow user to specify max length of generated portion, rather than total'",['feature request'],open,2022-01-15T01:13:40Z,
+267,b'The locally ran gpt-neo-2.7B is using CPU instead of GPU',['bug'],closed,2022-01-14T23:07:06Z,2022-01-15T00:35:40Z
+266,b'Argument not a list with same length as devices',['bug'],open,2022-01-14T08:01:48Z,
+265,"b""Links in the readme to the-eye.eu don't work""",['bug'],open,2022-01-14T00:56:33Z,
+264,b'GPT-neo 350M weights?',[],open,2022-01-06T05:07:59Z,
+263,"b'the-eye.eu is down again, is there a mirror?'",['bug'],closed,2022-01-01T13:43:45Z,2022-01-01T15:15:03Z
+262,b'GPT3_1_3B configuration for a v3-32 TPU',['feature request'],closed,2021-12-21T10:53:30Z,2021-12-21T15:01:12Z
+261,b'Colab: Download of pre trained dataset not possible. the-eye.eu is offline',['bug'],closed,2021-12-20T19:26:02Z,2021-12-20T19:49:04Z
+260,b'Incosistent inference TPU vs GPU (huggingface)',['bug'],closed,2021-12-09T15:02:07Z,2021-12-09T21:48:31Z
+259,b'Freeze Transformer Weight',[],closed,2021-11-24T08:50:24Z,2021-11-24T13:50:55Z
+258,b'Inferencing',[],closed,2021-11-15T13:50:12Z,2022-01-06T14:02:13Z
+257,b'Dataset preparation',[],closed,2021-11-15T12:19:54Z,2021-11-24T13:54:26Z
+256,b'Exception: stream did not contain valid UTF-8',[],closed,2021-11-13T15:30:44Z,2021-11-15T05:16:21Z
+255,b'Bump tensorflow from 2.5.1 to 2.5.2',['dependencies'],closed,2021-11-10T19:55:18Z,2021-11-22T01:10:20Z
+254,"b'can you optimize it for intel cpus, android cpus and m1 os x, separately.'",[],closed,2021-10-27T11:04:08Z,2021-10-27T22:46:20Z
+253,b'a gui or command line for training it?',[],closed,2021-10-27T10:58:07Z,2021-10-27T22:55:13Z
+252,b'removed a  consider-using-in pitfall case',[],closed,2021-10-24T17:59:28Z,2021-10-24T18:11:48Z
+251,b'Predict runtime error  ',['bug'],closed,2021-10-22T21:58:22Z,2021-11-07T21:03:12Z
+250,b'How to fine tine gptneo for QA dataset?',[],closed,2021-10-20T21:06:16Z,2021-12-09T21:58:02Z
+249,b'Issues with Argument defaulting in `data/create_tfrecords.py`',['bug'],closed,2021-10-20T08:08:29Z,2021-11-24T13:58:00Z
+248,b'How to do few shot in context learning using GPT-NEO',['feature request'],closed,2021-09-13T06:59:23Z,2021-11-24T14:07:27Z
+247,b'Error when connecting to Google Cloud Storage',['bug'],closed,2021-09-11T16:43:16Z,2021-09-11T17:29:59Z
+246,b'improved metrics table',[],closed,2021-09-01T21:36:14Z,2021-09-01T22:54:12Z
+245,b'Where to download model for EleutherAI/gpt-j-6B',['bug'],closed,2021-08-29T10:42:32Z,2021-10-04T08:41:11Z
+244,b'Update tasks.py',[],closed,2021-08-26T09:45:38Z,2021-11-22T01:10:55Z
+243,b'Bug in Google Colab',['bug'],closed,2021-08-25T17:16:37Z,2021-08-27T06:22:35Z
+242,b'Bump tensorflow from 2.5.0 to 2.5.1',['dependencies'],closed,2021-08-25T14:57:21Z,2021-08-25T16:12:18Z

@@ -1,0 +1,31 @@
+id,Title,Tag,State,Open Date,Close Date
+1132,b'Weight shape inconsistency between TF-Hub and GitHub models',[],closed,2022-01-21T07:59:02Z,2022-01-24T07:49:03Z
+1131,b'AttributeError: Cannot set the property autotune on OptimizationOptions.',[],open,2022-01-17T01:34:57Z,
+1130,b'location of inference results (bbox coordinates) - where?',[],open,2022-01-14T17:15:25Z,
+1129,b'`image_size` is not used from the utility function',[],open,2022-01-01T04:33:42Z,
+1128,b'change urls',[],closed,2021-12-15T02:50:18Z,2021-12-15T02:50:31Z
+1127,b'efficient-det training on custom data set - where to start? ',[],open,2021-12-04T20:41:28Z,
+1126,b'Training EfficientNetV2 from scratch with synthetic data throws NaN error',[],open,2021-12-03T19:50:18Z,
+1125,b'train custom dataset problem',[],open,2021-12-03T09:49:39Z,
+1124,b'ImageNet21k checkpoints for EffNetV2-B0/B1/B2/B3',[],open,2021-12-03T00:37:54Z,
+1123,b'EarlyStopping',[],open,2021-12-02T07:15:16Z,
+1122,b'How to set up cosine learning rate to decrease to 0 at the end of training.',[],open,2021-12-01T20:09:06Z,
+1121,b'Training Problem',[],open,2021-11-26T09:57:14Z,
+1120,b'How should i determine num_examples_per_epoch?',[],open,2021-11-25T12:35:51Z,
+1119,"b'Loss Decreases during Training, but AP and AR is -1 '",[],open,2021-11-24T10:20:17Z,
+1118,b'The overall mAP is inconsistent with the mAP of each class for custom dataset.',[],open,2021-11-24T10:17:14Z,
+1117,b'Can you release the code of training-aware NAS?',[],open,2021-11-23T07:57:57Z,
+1116,b'TPU',[],open,2021-11-15T15:10:48Z,
+1115,b'image path pattern error in Inference mode',[],closed,2021-11-10T12:36:43Z,2021-11-25T12:36:08Z
+1114,b'mAP is too low during training Efficientdet on custom dataset',[],open,2021-11-02T12:06:13Z,
+1113,b'[Question] EfficientNet-V2 (preprocessing)',[],open,2021-11-02T10:17:41Z,
+1112,b'Update hparams_config.py',['cla: yes'],open,2021-10-28T15:23:57Z,
+1111,b'[Question] How to implement Grad-CAM for effnetv2 model',[],closed,2021-10-28T00:47:37Z,2021-12-15T01:08:52Z
+1110,"b'AP is below 0.2, but F1 is above 0.8'",[],open,2021-10-27T03:24:07Z,
+1109,b'How to get sample size with/without data augmentation',[],open,2021-10-25T21:21:44Z,
+1108,b'custom trained model inference issue on single image',[],open,2021-10-25T11:21:37Z,
+1107,b'update readme',['cla: yes'],closed,2021-10-23T12:02:42Z,2021-10-23T14:30:50Z
+1106,b'update readme',['cla: yes'],closed,2021-10-23T10:31:20Z,2021-10-23T10:31:42Z
+1105,b'Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = -1.000',[],open,2021-10-22T13:42:58Z,
+1104,b'Missing checkpoints : OSError: gs://cloud-tpu-checkpoints/efficientnet/v2/hub/efficientnetv2-s-21k/feature-vector does not exist',[],open,2021-10-21T13:56:35Z,
+1103,b'remove duplicate function',['cla: yes'],closed,2021-10-14T01:40:18Z,2021-10-14T01:40:40Z

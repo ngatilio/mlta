@@ -1,0 +1,2 @@
+url,title,comments,state,created_at,closed_at
+https://api.github.com/repos/awslabs/autogluon/issues/1320,b'Fixing Pillow min version to address CVE',[],closed,2021-09-22 20:10:01,2021-09-22 20:33:27

@@ -1,0 +1,31 @@
+id,Title,Tag,State,Open Date,Close Date
+2571,b'sudo apt-get install libprotobuf-dev',[],open,2018-11-26T10:22:21Z,
+2570,b'How to get shape of conv1?',[],open,2018-11-24T03:23:30Z,
+2569,"b'How can I fix ""/lib64/libc.so.6: version `GLIBC_2.14\'"" error '",[],closed,2018-11-21T02:54:08Z,2018-11-21T04:45:39Z
+2568,b'Add code of conduct',['CLA Signed'],closed,2018-11-21T01:08:57Z,2018-11-21T05:13:03Z
+2567,"b""nvcc fatal   : Unsupported gpu architecture 'compute_75'""",[],open,2018-11-09T03:16:21Z,
+2566,b'Caffe2 python Conv op can not specify engine  ',[],open,2018-11-09T01:37:54Z,
+2565,b'new instance  caffe2::Predictor get struct',[],open,2018-11-06T10:09:58Z,
+2563,b'Trojan horse: Fuerboos.C!cl',[],open,2018-10-29T23:47:03Z,
+2562,b'Error argument in predict',[],open,2018-10-25T01:17:32Z,
+2561,b'how to use mask-rcnn in caffe2 c++ gpu',[],open,2018-10-10T03:14:46Z,
+2560,b'Remove all but redirect to github.com/pytorch/pytorch repo',['CLA Signed'],closed,2018-09-27T15:11:54Z,2018-09-27T15:12:25Z
+2559,b'Is Caffe2 faster than Caffe for CPU Performance?',[],open,2018-09-24T16:30:28Z,
+2558,"b""undefined reference to `caffe2::GetEmptyStringAlreadyInited[abi:cxx11]()' """,[],open,2018-09-13T13:41:30Z,
+2557,b'Can I use Caffe2 with python2 though I compiled caffe2 with python3',[],closed,2018-09-03T13:38:12Z,2018-09-12T00:12:05Z
+2556,b'how to convert caffe2 pb model to caffemodel ?',[],open,2018-09-01T02:39:37Z,
+2555,b'Warning error for fuzzywuzzy',[],open,2018-08-31T13:39:25Z,
+2554,b'CRITICAL:root:Cannot load caffe2.python. Error: /usr/local/lib/python2.7/dist-packages/caffe2/python/caffe2_pybind11_state.so: undefined symbol: _ZTIN6caffe27NetBaseE',[],closed,2018-08-30T08:16:26Z,2018-10-04T21:21:48Z
+2553,b'Update image_input_op.h',['CLA Signed'],closed,2018-08-30T00:12:22Z,2018-09-27T15:14:49Z
+2552,b'how workspcae process  the operater with type =Python ',[],closed,2018-08-29T11:38:50Z,2018-09-12T00:14:05Z
+2551,"b""CMakeFiles/Makefile2:1436: recipe for target 'caffe2/CMakeFiles/test_parallel.dir/all' failed""",[],closed,2018-08-29T11:38:21Z,2018-08-30T14:55:19Z
+2550,b'Match the comment with #ifndef',['CLA Signed'],closed,2018-08-27T11:00:40Z,2018-09-27T15:15:04Z
+2549,b'\xe5\xa6\x82\xe4\xbd\x95\xe5\x9c\xa8windows+cpu\xe4\xb8\x8b\xef\xbc\x8c\xe5\xb0\x86caffe2\xe7\x9a\x84detectron\xe6\xa8\xa1\xe5\x9d\x97\xe7\xbc\x96\xe8\xaf\x91\xe6\x88\x90\xe5\xba\x93\xef\xbc\x9f',[],open,2018-08-23T13:02:31Z,
+2548,b'make install error\xef\xbc\x9a [third_party/gloo/gloo/CMakeFiles/gloo.dir/all] Error 2',[],open,2018-08-20T14:18:38Z,
+2547,b'Can I load the init_net.pb and predict_net.pb into numpy arrays\xef\xbc\x9f',[],open,2018-08-19T12:30:17Z,
+2546,b'Some minor Python 3 compatibility changes',['CLA Signed'],closed,2018-08-14T20:39:26Z,2018-08-14T20:41:15Z
+2545,b'how to create 2 or more workspace instance in python API?',[],closed,2018-08-09T06:47:16Z,2018-08-09T07:12:39Z
+2544,b'C++ How to copy from TensorCUDA to TensorCPU',[],closed,2018-08-08T14:56:36Z,2018-08-08T15:17:04Z
+2543,"b'when git clone caffe2 , return thirtparty eigen repository  error:'",[],open,2018-08-06T14:06:11Z,
+2542,b'Update .gitmodules',['CLA Signed'],closed,2018-08-06T00:17:14Z,2018-08-08T19:20:47Z
+2541,b'How to use Caffe2 pre-trained model inside Caffe?',[],closed,2018-08-01T18:37:54Z,2018-09-12T00:13:40Z

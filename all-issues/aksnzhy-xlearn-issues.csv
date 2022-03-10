@@ -1,0 +1,31 @@
+id,Title,Tag,State,Open Date,Close Date
+366,"b""successfully training. but always fail when running 'model.predict()'""",[],closed,2021-11-29T09:19:55Z,2021-12-09T06:27:42Z
+365,b'jupyter\xe8\xae\xad\xe7\xbb\x83\xe6\x8a\xa5\xe9\x94\x99\xe6\x98\xbe\xe7\xa4\xbaThe kernel appears to have died. It will restart automatically.',[],closed,2021-10-24T13:41:01Z,2021-10-25T02:39:48Z
+364,b'xlearn was installed on windows anaconda successfully  but is not working ',[],open,2021-10-03T15:37:42Z,
+363,"b""xlearn python API's .predict method in doesn't kill the created threads after execution in python API, which leads to resource exhausted.""",[],open,2021-08-24T06:34:57Z,
+362,b'\xe4\xbd\xbf\xe7\x94\xa8xlearn\xe7\x9a\x84FM\xe6\xa8\xa1\xe5\x9e\x8b\xe8\xae\xad\xe7\xbb\x83\xe8\x87\xaa\xe5\xb7\xb1\xe7\x9a\x84\xe6\x95\xb0\xe6\x8d\xae\xe9\x9b\x86\xef\xbc\x8c\xe5\x8f\x91\xe7\x8e\xb0\xe5\x87\xba\xe7\x8e\xb0bash line 1 \xef\xbc\x9a189133 segmentation fault core dumped\xe7\x9a\x84\xe9\x94\x99\xe8\xaf\xaf\xef\xbc\x8c\xe6\x84\x9f\xe8\xa7\x89\xe5\x83\x8f\xe6\x98\xaf\xe6\x88\x91\xe8\x87\xaa\xe5\xb7\xb1\xe5\x81\x9a\xe7\x9a\x84\xe6\x95\xb0\xe6\x8d\xae\xe9\x9b\x86\xe9\x94\x99\xe4\xba\x86\xef\xbc\x8c\xe4\xbd\x86\xe6\x98\xaf\xe5\x8f\x88\xe6\x89\xbe\xe4\xb8\x8d\xe5\x87\xba\xe6\x9d\xa5\xef\xbc\x8c\xe8\xaf\xb7\xe9\x97\xae\xe6\x9c\x89\xe4\xba\xba\xe5\x87\xba\xe7\x8e\xb0\xe8\xbf\x87\xe8\xbf\x99\xe4\xb8\xaa\xe9\x97\xae\xe9\xa2\x98\xe5\x90\x97\xef\xbc\x9f',[],open,2021-07-16T09:10:57Z,
+361,"b'segmentation fault  python3  \xe6\x88\x91\xe6\x8a\xbd\xe4\xba\x86(1000,20)\xe7\x9a\x84\xe6\x95\xb0\xe6\x8d\xae\xe6\x8a\xa5\xe9\x94\x99'",[],closed,2021-06-29T11:12:23Z,2021-06-29T15:49:42Z
+360,b'ffm\xe6\xa8\xa1\xe5\x9e\x8b\xe8\xae\xad\xe7\xbb\x83\xe7\x9a\x84\xe6\x97\xb6\xe5\x80\x99Precision\xe4\xb8\xbanan',[],open,2021-06-07T08:32:26Z,
+359,b'Memory Leak in DMatrix',[],open,2021-05-24T08:40:38Z,
+358,b'Process finished with exit code 134 (interrupted by signal 6: SIGABRT)',[],open,2021-04-01T03:48:38Z,
+357,b'predict output gives different mse than one reported by predict function',[],open,2021-02-03T11:13:54Z,
+356,b'predict does not work without specifying out_path',[],open,2021-02-03T10:07:41Z,
+355,b'Multithreaded OnDiskReader',[],open,2021-01-28T14:17:43Z,
+354,b'Support for arm64',[],open,2020-12-29T04:23:08Z,
+353,b'\xe8\xaf\xbb\xe5\x8f\x96pandas\xe6\x95\xb0\xe6\x8d\xae\xe8\xae\xad\xe7\xbb\x83loss\xe4\xb8\xbanan',[],open,2020-12-18T09:47:21Z,
+352,b'libsvm\xe6\xa0\xbc\xe5\xbc\x8f\xe7\x9a\x84\xe6\x95\xb0\xe6\x8d\xae\xe8\xae\xad\xe7\xbb\x83Segmentation fault',[],open,2020-12-18T09:44:26Z,
+351,b'Only same or similar output from binary classifier model ',[],open,2020-11-26T08:29:27Z,
+350,b'Preload Model for Faster Predictions',[],open,2020-11-09T00:30:31Z,
+349,"b'should it be ""int align = kAlign * aux_size;""  => ""int align = kAlign;""  for ftrl in ffm_score.cc line 57'",[],open,2020-10-14T04:06:15Z,
+348,b'loss \xe4\xb8\xba -nan',[],open,2020-10-10T11:36:33Z,
+347,b'What is the format of training data?',[],open,2020-09-25T06:22:21Z,
+346,b'FFM\xe6\xa8\xa1\xe5\x9e\x8b\xe8\xbe\x93\xe5\x87\xba\xe7\x9a\x84\xe4\xb8\x80\xe9\x98\xb6\xe9\xa1\xb9weight\xe7\x9a\x84\xe6\x95\xb0\xe9\x87\x8f\xe8\xb7\x9f\xe7\x89\xb9\xe5\xbe\x81\xe5\x8f\x96\xe5\x80\xbc\xe6\x95\xb0\xe9\x87\x8f\xe7\x9b\xb8\xe5\x90\x8c\xef\xbc\x9f',[],closed,2020-09-03T07:32:09Z,2020-09-18T10:44:52Z
+345,b'Can I change the path of xlearn log file when used in Python?',[],open,2020-08-27T06:34:29Z,
+344,b'stackoverflow when training',[],open,2020-08-23T16:05:24Z,
+343,b'how does the setSigmod function work?',[],open,2020-08-20T16:09:01Z,
+342,b'How to deal with large-scale sparse data?',[],open,2020-08-20T08:08:17Z,
+341,b'Does it need validation data for fit()?',[],open,2020-08-19T12:22:43Z,
+340,b'Different results with same seed',[],open,2020-08-19T09:50:41Z,
+339,b'nthread/n_jobs not applied to prediction',[],open,2020-08-19T09:17:20Z,
+338,"b'What is the parameter ""init""? Why should it be a float value?'",[],closed,2020-08-18T03:42:18Z,2020-11-25T13:28:49Z
+337,b'how to transform the titanic data ?',[],open,2020-08-16T06:28:22Z,

@@ -1,0 +1,8 @@
+url,title,comments,state,created_at,closed_at
+https://api.github.com/repos/tensorforce/tensorforce/issues/840,b'Bump tensorflow from 2.6.0 to 2.6.1',[],closed,2021-11-10 19:45:27,2021-11-10 20:00:19
+https://api.github.com/repos/tensorforce/tensorforce/issues/818,b'Bump tensorflow from 2.5.0 to 2.5.1',[],closed,2021-08-25 14:54:17,2021-08-25 21:48:22
+https://api.github.com/repos/tensorforce/tensorforce/issues/773,b'Bump pillow from 7.2.0 to 8.1.1',"[b'Looks like pillow is up-to-date now, so this is no longer needed.']",closed,2021-03-22 20:52:34,2021-05-23 13:39:02
+https://api.github.com/repos/tensorforce/tensorforce/issues/770,b'Bump pillow from 7.2.0 to 8.1.1',[],closed,2021-03-19 16:09:15,2021-03-19 17:12:47
+https://api.github.com/repos/tensorforce/tensorforce/issues/763,b'Bump tensorflow from 2.3.2 to 2.4.0 in /docs',"[b'Looks like tensorflow is up-to-date now, so this is no longer needed.']",closed,2021-02-08 18:32:19,2021-02-08 19:49:13
+https://api.github.com/repos/tensorforce/tensorforce/issues/735,b'Bump tensorflow from 2.3.0 to 2.3.1',[],closed,2020-09-25 19:30:06,2020-09-27 15:56:55
+https://api.github.com/repos/tensorforce/tensorforce/issues/646,b'Bump tensorflow from 2.0.0 to 2.0.1 in /docs',[],closed,2020-01-28 21:47:35,2020-01-29 07:43:20

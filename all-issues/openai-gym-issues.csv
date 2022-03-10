@@ -1,0 +1,31 @@
+id,Title,Tag,State,Open Date,Close Date
+2580,b'Creating gym style environment from real device',[],open,2022-01-28T08:33:32Z,
+2579,b'Update play.py',[],open,2022-01-28T03:33:03Z,
+2578,"b'Reformat some docstrings, remove unneeded image links'",[],closed,2022-01-27T16:46:45Z,2022-01-27T20:36:51Z
+2577,b'richer reacher fix and small docstring reorganization',[],closed,2022-01-27T00:07:08Z,2022-01-27T02:21:10Z
+2576,"b""Add 'MIT' to license metadata field in setup.py""",[],closed,2022-01-26T21:28:01Z,2022-01-27T02:26:54Z
+2575,b'replace mujoco-py with dm_control',[],open,2022-01-26T20:30:42Z,
+2574,b'docs+credits',[],closed,2022-01-26T02:53:17Z,2022-01-26T21:02:43Z
+2573,b'[Proposal] Add license to the license field in the setup.py file',['PR Needed'],closed,2022-01-25T14:36:44Z,2022-01-27T02:26:54Z
+2572,b'Potential dead code in utils',['PR Needed'],open,2022-01-24T23:30:09Z,
+2571,b'Refactor',[],closed,2022-01-23T22:42:03Z,2022-01-23T22:42:38Z
+2570,b'Add README for spaces',[],closed,2022-01-23T21:09:44Z,2022-01-23T23:21:27Z
+2569,"b""ImportError: cannot import name 'error' from 'gym'""",[],closed,2022-01-23T14:43:00Z,2022-01-26T19:40:09Z
+2568,b'add pygame GUI for frozen_lake.py env',[],open,2022-01-21T19:04:18Z,
+2567,b'[Proposal] New Wrapper Plans',[],open,2022-01-21T17:44:46Z,
+2566,b'add pygame GUI for frozen lake env',[],closed,2022-01-19T23:41:29Z,2022-01-21T18:53:34Z
+2565,b'Attempt to fix blackjack rendering tests',[],closed,2022-01-19T22:21:26Z,2022-01-19T22:28:43Z
+2564,b'[Proposal] Autoreset when stepping in done state',[],open,2022-01-19T19:10:13Z,
+2563,"b""[Bug Report] In cart pole v1 the window doesn't open and the program stops immediately""",[],closed,2022-01-19T12:14:29Z,2022-01-19T22:11:32Z
+2562,b'Error with Seed',[],closed,2022-01-15T15:25:31Z,2022-01-15T18:53:12Z
+2561,b'How do i display the super mario environment on jupyter lab?',[],closed,2022-01-15T02:58:48Z,2022-01-15T09:41:50Z
+2560,b'How do i display the super mario environment on google colab?',[],closed,2022-01-13T23:25:14Z,2022-01-19T19:49:19Z
+2559,b'Modifying mujoco xml file to modify environment',['mujoco'],open,2022-01-13T11:21:42Z,
+2558,b'Where can I find third-party environments?',[],closed,2022-01-13T03:49:37Z,2022-01-19T22:11:24Z
+2557,b'[Bug Report]   env.render() not work',[],closed,2022-01-13T02:44:36Z,2022-01-24T23:13:34Z
+2556,b'Remove reset enforceing in the `TimeLimit` wrapper',[],closed,2022-01-12T00:08:44Z,2022-01-13T20:59:55Z
+2555,b'[Proposal] Adding specific(like already done env) env reset function in AsyncVectorEnv',[],closed,2022-01-11T15:09:06Z,2022-01-12T11:32:04Z
+2554,b'Implement simplified Box representation',[],closed,2022-01-11T13:03:12Z,2022-01-13T18:41:53Z
+2553,b'Remove unittest envs',[],closed,2022-01-11T01:21:12Z,2022-01-11T04:42:26Z
+2552,b'Refactor Lunar Lander and Bipedal Walker to use Pygame',[],open,2022-01-09T09:58:48Z,
+2551,b'Move rendering.py to utils',[],closed,2022-01-06T17:02:34Z,2022-01-06T18:01:30Z

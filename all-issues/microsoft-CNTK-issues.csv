@@ -1,0 +1,31 @@
+id,Title,Tag,State,Open Date,Close Date
+3862,b'Convolution 1D CNTK C++',[],open,2021-12-30T09:26:44Z,
+3861,b'CNTK C# Crash when layer is deeper',[],closed,2021-12-21T03:50:31Z,2022-01-28T06:19:52Z
+3860,b'Request for a no-opencv dotnet release',[],open,2021-09-17T04:26:38Z,
+3859,b'Value goes invalid when using TestMinibatch',[],open,2021-09-08T09:36:46Z,
+3858,b'CNTK Crash: No computation node mapping exists for Variable Placeholder',[],open,2021-09-03T15:37:49Z,
+3857,"b'Revert ""disable fp16 test for poolWithSequenceAxis (#3810)""'",[],open,2021-08-27T04:46:43Z,
+3856,b'cntk-gpu==2.7.post1 pip install return 404',[],open,2021-08-27T01:25:40Z,
+3855,b'Inconsistency in Gradients Calculation of reduce_max',[],open,2021-08-25T17:42:23Z,
+3854,b'CUDA 11.4 from 11.1',[],closed,2021-08-03T10:21:10Z,2021-08-03T10:21:32Z
+3853,b'Add SWIG generated wrapper C++ and C# code',[],closed,2021-07-27T09:13:06Z,2021-07-27T09:13:22Z
+3852,b'Sqrt of a negative value return zero instead of NaN',[],open,2021-05-18T07:31:20Z,
+3851,"b'Keras, cntk and onnx'",[],closed,2021-05-14T16:18:19Z,2021-05-24T22:59:51Z
+3850,b'C# CNTK Transfer Learning input reshape',[],open,2021-04-27T13:59:43Z,
+3849,b'Github',[],closed,2021-04-16T11:26:41Z,2021-05-11T21:24:34Z
+3848,b'Which version of the CNTK to use for video cards 3070',[],open,2021-03-10T06:06:34Z,
+3847,b'Changing weight parameter in loss function and how to use weighted_binary_cross_entropy',[],open,2021-02-22T14:04:05Z,
+3846,b'MFC application that uses evaluate force loads the cntk-core dll on start. cannot delay load it',[],open,2021-02-16T08:40:39Z,
+3845,b'Pretrained models',[],open,2021-01-22T09:38:21Z,
+3844,b'the onnxruntime version',[],closed,2021-01-21T02:58:33Z,2021-01-23T06:26:09Z
+3843,"b'Can build CPUOnly, but MathCuda Batchnormalization.cuh fails with C2912 explicit template specialization'",[],closed,2021-01-21T02:32:31Z,2021-01-21T17:08:21Z
+3842,b'onnx errors building cntk2.7',[],closed,2021-01-21T02:16:13Z,2021-01-23T06:26:24Z
+3841,b'Unable to pull Python wheels from cntk.ai for cntk2.1',[],closed,2021-01-20T19:36:07Z,2021-05-11T21:24:54Z
+3840,b'Errors building CNTK2.7',[],closed,2021-01-20T07:51:57Z,2021-01-21T02:14:52Z
+3839,b'Unable to open the pretrained model files',[],open,2021-01-19T14:35:06Z,
+3838,b'CNTK Python wheels are not available as Web App is down',[],closed,2021-01-12T09:23:25Z,2021-01-14T01:31:35Z
+3837,b'Python env setup failed running DevInstall.ps1',[],open,2020-12-31T21:07:14Z,
+3835,b'Is anyone trying to build CNTK with CUDA 11.1?',[],open,2020-12-17T07:52:13Z,
+3834,"b""Requested CNTK has has different version in metadata: '2.7'""",[],closed,2020-12-04T20:23:32Z,2021-01-04T17:21:19Z
+3833,b'Save Object Detection model to ONNX format',[],open,2020-10-25T05:11:01Z,
+3832,b'can you tell me the reason why ?',[],open,2020-10-15T12:07:43Z,

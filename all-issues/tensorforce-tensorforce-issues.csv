@@ -1,0 +1,31 @@
+id,Title,Tag,State,Open Date,Close Date
+852,b'How to extract Q-values of actions given a state?',[],closed,2022-01-14T11:42:59Z,2022-01-14T19:44:48Z
+851,b'Unable to train on OpenAI Gym Envs other than CartPole',[],closed,2022-01-10T10:11:25Z,2022-01-10T13:18:08Z
+850,b'UserWarning tensorflow',[],closed,2022-01-08T11:08:30Z,2022-01-10T11:15:06Z
+849,b'make states ArrayDict in case _states is a nested dict.',[],closed,2021-12-28T23:36:09Z,2021-12-29T14:54:33Z
+848,b'I am getting InvalidArgumentError at the beginning of training. ',[],closed,2021-12-28T06:24:11Z,2022-01-24T06:57:44Z
+847,b'Nested dictionary for states causes assertion error.',[],closed,2021-12-28T00:46:33Z,2021-12-29T00:40:05Z
+846,b'Train an Agent in an Environment then Test it on Another Environment',[],closed,2021-12-08T23:26:17Z,2021-12-11T17:45:22Z
+845,b'Failing on learning PPO',[],closed,2021-12-06T17:10:20Z,2021-12-07T11:42:17Z
+844,b'Not convergence of TensorForce agents training',[],closed,2021-12-06T11:46:38Z,2021-12-06T20:43:15Z
+843,b'Quickstart example does not run',[],closed,2021-11-16T04:55:22Z,2021-11-16T17:14:48Z
+842,b'Custom Action-distributions layer activation function',[],closed,2021-11-15T13:19:08Z,2021-11-27T12:06:29Z
+841,b'tensorforce.exception.TensorforceError: Environment.reset: invalid component {name} for state.',[],closed,2021-11-11T03:38:24Z,2021-11-11T09:10:19Z
+840,b'Bump tensorflow from 2.6.0 to 2.6.1',['dependencies'],closed,2021-11-10T19:45:27Z,2021-11-10T20:00:19Z
+839,"b'Having ""Tensor had NaN values""'",[],closed,2021-10-31T06:03:21Z,2021-11-07T10:11:36Z
+838,b'tensorforce.exception.TensorforceError: Environment.execute: invalid component {name} for state.',[],closed,2021-10-27T12:19:16Z,2021-10-27T13:13:29Z
+837,b'doubts about parameters and summaries',[],closed,2021-10-26T08:40:35Z,2021-11-27T12:07:01Z
+836,b'fix ZeroDivisionError in the printout when an episode finishes very fast',[],closed,2021-10-18T14:34:17Z,2021-10-20T20:48:57Z
+835,b'using a saved PPO agent',[],closed,2021-10-17T06:19:21Z,2021-10-23T09:17:00Z
+834,b'more detailed progress bars',[],open,2021-10-08T08:41:37Z,
+833,b'How is action mask implemented in tensorforce internally?',[],closed,2021-10-05T09:00:05Z,2021-10-09T11:53:42Z
+832,b'added notebook with bugs',[],closed,2021-09-30T16:36:12Z,2021-10-27T21:04:23Z
+831,b'Bugs to do with experience',[],closed,2021-09-30T16:04:12Z,2021-10-27T21:04:08Z
+830,b'How does adam work with policy gradient methods?',[],closed,2021-09-28T17:43:21Z,2021-09-28T18:40:17Z
+829,"b'What doesa the ""internals"" means in agent.act()?'",[],closed,2021-09-28T06:21:53Z,2021-09-28T19:01:05Z
+828,b'Format of the Memory buffer',[],closed,2021-09-27T14:08:08Z,2021-09-29T10:03:25Z
+827,b'parallel training issue',[],closed,2021-09-26T05:27:15Z,2021-10-31T17:07:42Z
+826,"b""AttributeError: 'DeepQNetwork' object has no attribute 'timestep_completed'""",[],closed,2021-09-22T08:42:38Z,2021-09-26T21:03:13Z
+825,b'Issue about reward_preprocessing',[],closed,2021-09-16T19:07:58Z,2021-09-17T18:33:56Z
+824,b'Supplying multiple exploration parameters for multiple actions?',[],open,2021-09-13T20:56:36Z,
+823,b'Policy and baseline number of states assertion on ac and a2c',[],closed,2021-09-06T06:19:01Z,2021-09-06T06:32:07Z

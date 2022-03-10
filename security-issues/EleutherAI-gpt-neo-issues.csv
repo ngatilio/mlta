@@ -1,0 +1,3 @@
+url,title,comments,state,created_at,closed_at
+https://api.github.com/repos/EleutherAI/gpt-neo/issues/255,b'Bump tensorflow from 2.5.1 to 2.5.2',"[b""OK, I won't notify you again about this release, but will get in touch when a new version is available. If you'd rather skip all updates until the next major or minor version, let me know by commenting `@dependabot ignore this major version` or `@dependabot ignore this minor version`.\n\nIf you change your mind, just re-open this PR and I'll resolve any conflicts on it.""]",closed,2021-11-10 19:55:18,2021-11-22 01:10:20
+https://api.github.com/repos/EleutherAI/gpt-neo/issues/242,b'Bump tensorflow from 2.5.0 to 2.5.1',[],closed,2021-08-25 14:57:21,2021-08-25 16:12:18

@@ -1,0 +1,8 @@
+url,title,comments,state,created_at,closed_at
+https://api.github.com/repos/fastai/fastai/issues/3487,b'Bump nokogiri from 1.11.4 to 1.12.5 in /docs_src',[],closed,2021-09-28 05:30:14,2021-09-29 01:45:18
+https://api.github.com/repos/fastai/fastai/issues/3381,b'Bump nokogiri from 1.11.0 to 1.11.4 in /docs_src',[],closed,2021-05-20 21:15:54,2021-05-20 23:27:01
+https://api.github.com/repos/fastai/fastai/issues/3345,b'Bump rexml from 3.2.4 to 3.2.5 in /docs_src',[],closed,2021-04-30 21:00:06,2021-04-30 22:50:12
+https://api.github.com/repos/fastai/fastai/issues/3301,b'Bump nokogiri from 1.10.8 to 1.11.0 in /docs_src',[],closed,2021-04-07 05:00:24,2021-04-07 23:37:04
+https://api.github.com/repos/fastai/fastai/issues/2505,b'Bump nokogiri from 1.10.4 to 1.10.8 in /docs',[],closed,2020-02-25 14:22:02,2020-02-25 17:05:46
+https://api.github.com/repos/fastai/fastai/issues/2293,b'Bump nokogiri from 1.8.5 to 1.10.4 in /docs',[],closed,2019-08-21 22:27:36,2019-08-23 12:25:18
+https://api.github.com/repos/fastai/fastai/issues/1245,b'TextClasDataBunch classes error',"[b""This might happen because the class 1 doesn't appear in your validation set: by default there is a random split and maybe you were unlucky and it wasn't picked. You can pass classes=bla if you want to fix the classes to use.""]",closed,2018-11-26 10:18:14,2018-11-26 14:56:18
