@@ -1,3 +1,7 @@
+https://github.com/tensorflow/tensorflow/issues
+https://github.com/keras-team/keras/issues
+https://github.com/tesseract-ocr/tesseract
+https://github.com/ageitgey/face_recognition
 https://github.com/pytorch/pytorch/issues
 https://github.com/scikit-learn/scikit-learn/issues
 https://github.com/Theano/Theano/issues
@@ -30,7 +34,6 @@ https://github.com/apple/turicreate/issues
 https://github.com/eclipse/deeplearning4j/issues
 https://github.com/Azure/MachineLearningNotebooks/issues
 https://github.com/aws/amazon-sagemaker-examples/issues
-https://github.com/GoogleCloudPlatform/vertex-ai-samples/issues
 https://github.com/google/automl/issues
 https://github.com/microsoft/FLAML/issues
 https://github.com/awslabs/autogluon/issues
@@ -54,5 +57,4 @@ https://github.com/maxpumperla/hyperas/issues
 https://github.com/scikit-optimize/scikit-optimize/issues
 https://github.com/flashlight/flashlight/issues
 https://github.com/clab/dynet/issues
-https://github.com/tensorflow/tensorflow/issues
-https://github.com/keras-team/keras/issues
+https://github.com/deepfakes/faceswap

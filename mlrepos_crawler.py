@@ -4,6 +4,7 @@ from pprint import pprint
 import csv
 import requests
 import json
+import random
 
 '''
    Crawl something interesting :)
@@ -23,9 +24,13 @@ class GitCrawler(object):
     '''
        Search all repos given a filtering query
     '''
-    def search_repos(self, repo_query, order):
+    def search_repos(self, repo_query, order, shuffle):
         api_repos  = self.api.search_repositories(query=repo_query, sort='stars', order=order)
-        self.repos      = [repo.name for repo in api_repos]
+        if shuffle == False:
+            self.repos      = [repo.name for repo in api_repos]
+        else:
+            self.repos      = random.shuffle([repo.name for repo in api_repos]) 
+        # self.repos = self.repos[:MAX]
     
     '''
         Search all issues given a filtering query
@@ -84,16 +89,16 @@ class GitCrawler(object):
 '''
 if __name__ == "__main__":
     # auth
-    #MY_TOKEN_ARRAY   = [] 
-    MY_TOKEN    = 'gho_aeaf40a6c53fdad37cf7706e3c5e9fc28a81d81c'
-    MY_BASE_DIR = 'C:\\Users\\ngal1802\\Desktop\\Research\\P1\\Dataset'
+    # simple example
+    MY_TOKEN = '<YOUR_TOKEN>'
+    MY_BASE_DIR = '<YOUR_BASE_DIR>'
     gc  = GitCrawler(MY_TOKEN)
 
     # get all repo topics containing machine-learning and most starred
     query = 'machine-learning in:topic stars:>1000'
     path  = ''.join([MY_BASE_DIR, 'repos.csv'])
     
-    gc.search_repos(repo_query=query, order='desc')
+    gc.search_repos(repo_query=query, order='desc', shuffle=True)
     gc.to_csv(path, 'r')
     
     # get all issues containing threat patterns
