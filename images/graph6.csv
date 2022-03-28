@@ -1,0 +1,10 @@
+ML tools,dos,buf.-overflow,arbi.-code-ex.,xss,open-redir.,symlink-attack
+notebook,0,0,2,5,2,0
+jupyter-server,0,0,0,0,2,0
+jupyerhub,0,0,0,0,0,0
+jupyterlab,0,0,0,1,0,0
+pyspark,0,0,0,0,0,0
+pandas,0,0,1,0,0,0
+numpy,2,2,1,0,0,2
+nltk,1,0,0,0,0,0
+protobuf,0,1,0,0,0,0

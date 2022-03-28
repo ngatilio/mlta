@@ -1,0 +1,17 @@
+Vulnerability type,Num. of occurrences
+arbi.-code-ex.,5
+rce,5
+buf.-overflow,11
+dos,17
+out-of-bounds ,11
+uaf,4
+code-injection,3
+null ptr deref.,7
+untrust.-deser.,1
+xss,1
+improp. valid.,2
+excessive- iter.,1
+div.-by-zero,3
+reach.-assert.,1
+crash-insuf.info,2
+cred.-discover.,1

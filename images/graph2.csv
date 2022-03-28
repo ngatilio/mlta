@@ -1,0 +1,15 @@
+Vulnerability type,Num. of occurrences
+dos,3
+buf.-overflow,3
+null ptr deref.,1
+abr.code-exec.,4
+csrf,1
+xss,6
+user-imperson.,2
+cleartxt-stor.,1
+ineff.-regex-cplex.,2
+open-redir.,4
+cross-site-incl.,1
+cmd-exec.,1
+direct.-transver.,1
+symlink-attack,2
