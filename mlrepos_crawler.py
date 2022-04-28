@@ -69,12 +69,12 @@ class GitCrawler(object):
         for issue in issues:
             cve_comments = []
             cve_titles   = []
-            if 'cve' in comments:
-                cve_comments = re.findall(cve_pattern, issue[1])
+            if 'cve' in issue[2]:
+                cve_comments = re.findall(cve_pattern, issue[2])
                 cve_comments = list(dict.fromkeys(cve_comments))
                 self.cves += cve_comments
-            if 'cve' in titles:
-                cve_titles = re.findall(cve_pattern, issue[0])
+            if 'cve' in issue[1]:
+                cve_titles = re.findall(cve_pattern, issue[1])
                 cve_titles = list(dict.fromkeys(cve_titles))
                 self.cves += cve_titles
 
@@ -109,8 +109,8 @@ class GitCrawler(object):
                 csv_file.write('\n')
             csv_file.close()
         elif opt == 'i': # issue
-            csv_out.writerow(('title','comments','state',
-                              'created_at','closed_at','url'))
+            csv_out.writerow(('url','title','comments','state',
+                              'created_at','closed_at'))
             for issue in self.issues:
                 csv_out.writerow(issue)
             csv_file.close()
